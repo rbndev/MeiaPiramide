@@ -1,8 +1,8 @@
 # MeiaPiramide
-<img src="https://i.ibb.co/PhMcLGL/image.png" alt="Img" />
 <p>
   Desafio da meia pirâmide da disciplina Programação OO, 3º período de Ciência da computação.
 </p>
+<img src="https://i.ibb.co/PhMcLGL/image.png" alt="Img" />
 <h1>Passos</h1>
 1. Recebe um número qualquer de valores aleatórios em uma linha (String), separado por espaços, por exemplo: "51 98 12 31 09 21 20 77 65 10".
 2. Jogue os Valores num vetor.
