@@ -9,6 +9,6 @@
 3. Contrua as linhas da pirâmide. Atente que a cada linha que for exibida, teremos um número a mais de elementos.<br>
 4. No final, o programa deve mostrar o resultado da soma dos menores valores de CADA linha da pirâmide.
 Não esqueça da última linha!<br>
-<h1>Passos</h1>
+<h1>Resultado</h1>
 <img src="https://i.ibb.co/qx8Z2Wf/image.png" alt="Img" />
 <a href="https://youtu.be/PEvtzwTpMFQ" target="_blank">https://youtu.be/PEvtzwTpMFQ</a>
