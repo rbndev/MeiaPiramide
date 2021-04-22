@@ -1,4 +1,4 @@
-# MeiaPiramide
+# Desafio da meia Piramide
 <p>
   Desafio da meia pirâmide da disciplina Programação OO, 3º período de Ciência da computação.
 </p>
