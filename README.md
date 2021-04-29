@@ -3,7 +3,7 @@
   Desafio da meia pirâmide da disciplina Programação OO, 3º período de Ciência da computação.
 </p>
 <img src="https://i.ibb.co/PhMcLGL/image.png" alt="Img" />
-<h1>Passos</h1>
+<h1>Dicas</h1>
 1. Recebe um número qualquer de valores aleatórios em uma linha (String), separado por espaços, por exemplo: "51 98 12 31 09 21 20 77 65 10".<br>
 2. Jogue os Valores num vetor.<br>
 3. Contrua as linhas da pirâmide. Atente que a cada linha que for exibida, teremos um número a mais de elementos.<br>
